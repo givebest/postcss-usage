@@ -1,0 +1,84 @@
+/* CSSNext */ 
+:root{
+    --mainColor: #333;
+     --fontSize: 1rem;
+}
+body{
+    color: var(--mainColor);
+    font-size: calc(var(--fontSize) * 2);
+}
+
+/* Autoprefixer */ 
+.display-flex{
+    display: flex;
+}
+
+/* CCSS Grace */
+.display-inline-block{
+    display: inline-block;
+}
+.background-linear{
+    background: linear-gradient(red, green);   
+}
+.background-rgba{
+    background: rgba(153, 85, 102, 0.3);    
+}
+.css-opacity{
+    opacity: .5;    
+}
+.clearfix{
+    clear: fix;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
